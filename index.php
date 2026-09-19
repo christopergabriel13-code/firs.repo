@@ -7,7 +7,7 @@
 </head>
 <body>
     <form action="process_product.php" method="post">
-        <label for="product_name">Nama Produk:</label>
+        <label for="product_name">Nama Produks:</label>
         <input type="text" id="product_name" name="product_name" required>
 
         <label for="price">Harga:</label>
